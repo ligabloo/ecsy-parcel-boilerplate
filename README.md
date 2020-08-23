@@ -34,4 +34,4 @@ To deploy to Github Pages run:
 npm run deploy
 ```
 
-[View Live Demo]()
+[View Live Demo](https://ligabloo.github.io/ecsy-parcel-boilerplate/)
