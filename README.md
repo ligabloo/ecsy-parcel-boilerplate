@@ -18,7 +18,7 @@ After this, you only need to run the following command to download the boilerpla
 degit ligabloo/ecsy-parcel-boilerplate#main [your-desired-project-name]
 ```
 
-Degit will ensure to download only the latest commit on the `main` branch, without carrying this entire Git repository history.
+Degit will ensure to download only the latest commit on the `main` branch, without carrying the entire Git repository's history.
 
 **Note**: this also means that your project won't have a Git repo initialized! You you'd like to use it for source control, make sure to run `git init` before starting your work.
 
